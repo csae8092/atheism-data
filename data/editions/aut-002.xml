@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Lantern Notes from Graz</title>
+        <title type="country">Austria</title>
+        <title type="date">1815-02-11</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/aut-002">Luca Romano</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>People gather in a room and talk about <rs type="keyword" ref="#materialism">matter</rs>, reason, and the shape of the world. The air is plain, the light is weak, and the voices move in small circles.</p>
+      <p>We notice a table, a print, a lamp, and some ordinary books. The discussion turns to <rs type="keyword" ref="#atheism-and-science">science</rs>, doubt, and curiosity, while the garden outside stays quiet and still.</p>
+      <p>There is no need for a grand story. The simple fact is enough: mind, body, and speech all belong to the same world of action and observation. <rs type="keyword" ref="#naturalism">Nature</rs> is mentioned again, as if it were an old and familiar witness. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

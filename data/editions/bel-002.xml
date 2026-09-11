@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">City Notes from Brussels</title>
+        <title type="country">Belgium</title>
+        <title type="date">1828-03-14</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/bel-002">Julien Bernard</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Glass, stone, and smoke appear in the same morning scene. A group of people reads a note and speaks of <rs type="keyword" ref="#religious-critique">criticism</rs>, doubt, and public reason.</p>
+      <p>One voice claims that truth rises from careful study, while another prefers simple speech and familiar examples. The room remains active, restless, and alert, and the talk turns to <rs type="keyword" ref="#atheism-and-science">evidence</rs>.</p>
+      <p>There is a lane outside, a market signal, and the ordinary noise of a city before noon. This is enough to carry the argument. <rs type="keyword" ref="#secular-humanism">Shared life</rs> becomes the final image. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

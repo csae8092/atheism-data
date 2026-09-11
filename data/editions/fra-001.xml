@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Glass and Paper in Paris</title>
+        <title type="country">France</title>
+        <title type="date">1802-07-15</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/fra-001">Amélie Laurent</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a quiet room, a group gathers around a desk and speaks about <rs type="keyword" ref="#secular-humanism">human life</rs>, reason, and the common good. The voices are steady and the paper is worn.</p>
+      <p>Some remarks are sharp, others are soft, but all of them move toward a practical question: what can people know, and what can they reasonably do together? <rs type="keyword" ref="#atheism-and-science">Observation</rs> appears in the middle of the exchange.</p>
+      <p>The answer remains modest, built from simple language and ordinary scenes. <rs type="keyword" ref="#naturalism">Visible reality</rs> is the final frame. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

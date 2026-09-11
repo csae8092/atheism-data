@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Market Morning in Lyon</title>
+        <title type="country">France</title>
+        <title type="date">1837-04-28</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/fra-002">Henri Morel</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A short letter describes a bustling market, a steady street, and a conversation about <rs type="keyword" ref="#atheism-and-science">proof</rs>, inquiry, and public trust. The whole scene is simple and vivid.</p>
+      <p>One speaker is patient, another impatient, and a third prefers examples drawn from daily work. They are not debating a myth; they are naming features of the visible world, with <rs type="keyword" ref="#materialism">substance</rs> entering the discussion.</p>
+      <p>At the end, the sentence settles into a cautious conclusion and the room becomes quiet again. <rs type="keyword" ref="#religious-critique">Public criticism</rs> remains the final note. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

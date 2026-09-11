@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">A Small Debate in Seville</title>
+        <title type="country">Spain</title>
+        <title type="date">1841-02-09</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/esp-002">Diego Ortega</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A quick paragraph on the morning city notes <rs type="keyword" ref="#naturalism">nature</rs>, motion, and the repeated labor of ordinary life. The tone is calm and practical.</p>
+      <p>Several voices comment on trust, doubt, and what counts as a solid example. Nothing elaborate is needed when the subject is already close at hand, and <rs type="keyword" ref="#socialism">community</rs> is mentioned as a practical concern.</p>
+      <p>The final point is simple: attention to the world remains more useful than abstract ceremony. <rs type="keyword" ref="#secular-humanism">Human effort</rs> closes the page. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">A Quiet Reading in Vienna</title>
+            <title type="country">Austria</title>
+            <title type="date">1783-04-22</title>
+            <title level="s">Entangled Atheism</title>
+            <editor key="https://example.org/editor/aut-001">Elena Moreau</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>And now, citizens, let <rs type="keyword" ref="#materialism">us consider</rs> whether the society in which we live is truly a society,
+            whether it fulfils the purpose that society is meant to serve, or whether it is rather an
+            antisocial state. Does it realize democracy? Does it respect liberty and equality? <gap></gap></p>
+         <p>Is it consistent with justice? <gap></gap> Let us take a look at its principal institutions: government,
+            property, religion, and so on. <gap></gap> We may also speak of <rs type="keyword" ref="#naturalism">nature</rs> and ordinary evidence.</p>
+         <p>We condemn religion (religion, let’s be clear—whatever it may be: any external or internal
+            form of worship offered to a supreme being, and not merely this or that particular religion);
+            we condemn it not because of the immoralities and crimes of its ministers, not because of the
+            harm it has caused to humanity, not because it has always been an instrument in the hands of
+            all those who oppress the <rs type="keyword" ref="#socialism">people through power or through</rs> property.</p>
+         <p>We condemn it because its dogmas are at odds with the simplest axioms of reason, as well as
+            with the discoveries of positive science, of science based on observation. In a word, because it
+            is contrary to truth. <rs type="keyword" ref="#atheism-and-science">Scientific inquiry</rs> keeps the argument grounded in practice. <gap></gap></p>
+         <p>I shall content myself with proving to you, briefly, through reasoning and through the data of
+            science, the emptiness of the fundamental dogma of all religion: the existence of God. When
+            one undermines a building at its base, it must necessarily collapse. <gap></gap></p>
+      </body>
+  </text>
+</TEI>

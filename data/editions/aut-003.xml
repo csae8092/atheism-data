@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Paper and Candle in Salzburg</title>
+        <title type="country">Austria</title>
+        <title type="date">1847-08-05</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/aut-003">Veronika Novak</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A small crowd reads a letter and speaks about <rs type="keyword" ref="#naturalism">nature</rs>, habit, and the value of clear argument. The room smells of paper and old wood.</p>
+      <p>Words move quickly from one person to another: <rs type="keyword" ref="#religious-critique">witness</rs>, criticism, proof, and trust. Some say the world is visible, some say it is hidden, and others simply prefer to ask questions.</p>
+      <p>Even a simple sentence can carry a broad claim. This one is about history, memory, and the steady work of ordinary thought. <rs type="keyword" ref="#secular-humanism">Human reason</rs> appears as a quiet but persistent guide. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

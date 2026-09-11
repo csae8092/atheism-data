@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Window Light in Turin</title>
+        <title type="country">Italy</title>
+        <title type="date">1794-01-08</title>
+        <title level="s">Entangled Atheism</title>
+        <editor key="https://example.org/editor/ita-001">Sofia Bellini</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A bright morning opens with a brief note on <rs type="keyword" ref="#materialism">substance</rs>, language, and observation. The table is crowded with maps, paper, and a few small objects.</p>
+      <p>Several people speak in quick succession, one after another, about <rs type="keyword" ref="#atheism-and-science">truth</rs>, doubt, and the value of simple evidence. Each sentence is short, but the thought is steady.</p>
+      <p>The lesson is easy to remember: reason and method do not need ceremony to be convincing. <rs type="keyword" ref="#secular-humanism">Human practice</rs> remains the central guide. <gap></gap></p>
+    </body>
+  </text>
+</TEI>

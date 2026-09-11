@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Keywords</title>
+            <title level="s">Entangled Atheism</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="materialism">
+            <form>
+               <orth>materialism</orth>
+            </form>
+            <sense>
+               <def> In philosophy and metaphysics, materialism is a form of monism holding that
+                  matter is the fundamental substance of nature, so that all things, including mind
+                  and consciousness, arise from material interactions and depend on physical
+                  processes, including those of the human brain and nervous system. It contrasts
+                  with monistic idealism, which treats consciousness as fundamental, and is related
+                  to naturalism, the view that only natural laws and forces operate in the universe,
+                  and to physicalism, the view that all that exists is ultimately physical.
+                  Physicalism extends materialism by including forms of physicality beyond ordinary
+                  matter (e.g. spacetime, energy, forces, exotic matter), and some use the terms
+                  interchangeably. Alternative or opposing views to materialism or physicalism
+                  include idealism, pluralism, dualism, solipsism, panpsychism, and other forms of
+                  monism. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="anthropological-atheism">
+            <form>
+               <orth>anthropological atheism</orth>
+            </form>
+            <sense>
+               <def> In philosophy and metaphysics, materialism is a form of monism holding that
+                  matter is the fundamental substance of nature, so that all things, including mind
+                  and consciousness, arise from material interactions and depend on physical
+                  processes, including those of the human brain and nervous system. It contrasts
+                  with monistic idealism, which treats consciousness as fundamental, and is related
+                  to naturalism, the view that only natural laws and forces operate in the universe,
+                  and to physicalism, the view that all that exists is ultimately physical.
+                  Physicalism extends materialism by including forms of physicality beyond ordinary
+                  matter (e.g. spacetime, energy, forces, exotic matter), and some use the terms
+                  interchangeably. Alternative or opposing views to materialism or physicalism
+                  include idealism, pluralism, dualism, solipsism, panpsychism, and other forms of
+                  monism. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="socialism">
+            <form>
+               <orth>socialism</orth>
+            </form>
+            <sense>
+               <def> In philosophy and metaphysics, materialism is a form of monism holding that
+                  matter is the fundamental substance of nature, so that all things, including mind
+                  and consciousness, arise from material interactions and depend on physical
+                  processes, including those of the human brain and nervous system. It contrasts
+                  with monistic idealism, which treats consciousness as fundamental, and is related
+                  to naturalism, the view that only natural laws and forces operate in the universe,
+                  and to physicalism, the view that all that exists is ultimately physical.
+                  Physicalism extends materialism by including forms of physicality beyond ordinary
+                  matter (e.g. spacetime, energy, forces, exotic matter), and some use the terms
+                  interchangeably. Alternative or opposing views to materialism or physicalism
+                  include idealism, pluralism, dualism, solipsism, panpsychism, and other forms of
+                  monism. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="existence-of-evil">
+            <form>
+               <orth>socialism</orth>
+            </form>
+            <sense>
+               <def> In philosophy and metaphysics, materialism is a form of monism holding that
+                  matter is the fundamental substance of nature, so that all things, including mind
+                  and consciousness, arise from material interactions and depend on physical
+                  processes, including those of the human brain and nervous system. It contrasts
+                  with monistic idealism, which treats consciousness as fundamental, and is related
+                  to naturalism, the view that only natural laws and forces operate in the universe,
+                  and to physicalism, the view that all that exists is ultimately physical.
+                  Physicalism extends materialism by including forms of physicality beyond ordinary
+                  matter (e.g. spacetime, energy, forces, exotic matter), and some use the terms
+                  interchangeably. Alternative or opposing views to materialism or physicalism
+                  include idealism, pluralism, dualism, solipsism, panpsychism, and other forms of
+                  monism. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="atheism-and-science">
+            <form>
+               <orth>atheism and science</orth>
+            </form>
+            <sense>
+               <def> A broad topic concerned with how scientific inquiry, natural explanations, and empirical reasoning relate to the absence of belief in supernatural beings or divine agency. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="religious-critique">
+            <form>
+               <orth>religious critique</orth>
+            </form>
+            <sense>
+               <def> An umbrella label for arguments, analyses, and cultural evaluations that question religious authority, dogma, institutions, or claims. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="secular-humanism">
+            <form>
+               <orth>secular humanism</orth>
+            </form>
+            <sense>
+               <def> A philosophical and ethical outlook emphasizing human flourishing, reason, and moral responsibility without appeal to supernatural beliefs. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+         <entry xml:id="naturalism">
+            <form>
+               <orth>naturalism</orth>
+            </form>
+            <sense>
+               <def> The view that only natural causes, laws, and processes are relevant to understanding reality, and that no supernatural entities or explanations are required. </def>
+            </sense>
+            <listBibl>
+               <bibl>wikipedia</bibl>
+            </listBibl>
+         </entry>
+      </body>
+   </text>
+</TEI>
