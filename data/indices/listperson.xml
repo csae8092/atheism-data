@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Keywords</title>
+            <title level="s">Entangled Atheism</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="ea-pers-001">
+               <persName type="pref">Gonzaga-Nevers, Eleonora</persName>
+               <persName>
+                  <surname>Gonzaga-Nevers</surname>
+                  <forename>Eleonora</forename>
+               </persName>
+               <birth>
+                  <date notBefore="1630-01-01" notAfter="1630-12-31">1630</date>
+                  <location>
+                     <placeName key="ea-place-002">Mantua</placeName>
+                     <geo>45.16031, 10.79784</geo>
+                  </location>
+               </birth>
+               <death>
+                  <date notBefore="1686-01-01" notAfter="1686-12-31">1686</date>
+                  <location>
+                     <placeName key="ea-place-001">Vienna</placeName>
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+               </death>
+               <idno type="GND">https://d-nb.info/gnd/118883542</idno>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q237463</idno>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
