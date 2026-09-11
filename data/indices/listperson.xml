@@ -43,6 +43,75 @@
                <idno type="GND">https://d-nb.info/gnd/118883542</idno>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q237463</idno>
             </person>
+            <person xml:id="ea-pers-002">
+               <persName type="pref">Spinoza, Baruch</persName>
+               <persName>
+                  <surname>Spinoza</surname>
+                  <forename>Baruch</forename>
+               </persName>
+               <birth>
+                  <date notBefore="1632-01-01" notAfter="1632-12-31">1632</date>
+                  <location>
+                     <placeName key="ea-place-003">Amsterdam</placeName>
+                     <geo>52.3676, 4.9041</geo>
+                  </location>
+               </birth>
+               <death>
+                  <date notBefore="1677-01-01" notAfter="1677-12-31">1677</date>
+                  <location>
+                     <placeName key="ea-place-004">The Hague</placeName>
+                     <geo>52.0705, 4.3007</geo>
+                  </location>
+               </death>
+               <idno type="GND">https://d-nb.info/gnd/118615372</idno>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7349</idno>
+            </person>
+            <person xml:id="ea-pers-003">
+               <persName type="pref">Hume, David</persName>
+               <persName>
+                  <surname>Hume</surname>
+                  <forename>David</forename>
+               </persName>
+               <birth>
+                  <date notBefore="1711-01-01" notAfter="1711-12-31">1711</date>
+                  <location>
+                     <placeName key="ea-place-005">Edinburgh</placeName>
+                     <geo>55.9533, -3.1883</geo>
+                  </location>
+               </birth>
+               <death>
+                  <date notBefore="1776-01-01" notAfter="1776-12-31">1776</date>
+                  <location>
+                     <placeName key="ea-place-005">Edinburgh</placeName>
+                     <geo>55.9533, -3.1883</geo>
+                  </location>
+               </death>
+               <idno type="GND">https://d-nb.info/gnd/11855490X</idno>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q25432</idno>
+            </person>
+            <person xml:id="ea-pers-004">
+               <persName type="pref">Voltaire, François-Marie</persName>
+               <persName>
+                  <surname>Voltaire</surname>
+                  <forename>François-Marie</forename>
+               </persName>
+               <birth>
+                  <date notBefore="1694-01-01" notAfter="1694-12-31">1694</date>
+                  <location>
+                     <placeName key="ea-place-006">Paris</placeName>
+                     <geo>48.8566, 2.3522</geo>
+                  </location>
+               </birth>
+               <death>
+                  <date notBefore="1778-01-01" notAfter="1778-12-31">1778</date>
+                  <location>
+                     <placeName key="ea-place-007">Ferney</placeName>
+                     <geo>46.3082, 6.1244</geo>
+                  </location>
+               </death>
+               <idno type="GND">https://d-nb.info/gnd/118627813</idno>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7244</idno>
+            </person>
          </listPerson>
       </body>
    </text>
