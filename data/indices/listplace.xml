@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Keywords</title>
+            <title level="s">Entangled Atheism</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="ea-place-001">
+               <placeName>Vienna</placeName>
+               <location>
+                  <geo>48.20849, 16.37208</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2761369</idno>
+            </place>
+            <place xml:id="ea-place-002">
+               <placeName>Mantua</placeName>
+               <location>
+                  <geo>45.16031, 10.79784</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/3174051</idno>
+            </place>
+            <place xml:id="ea-place-003">
+               <placeName>Amsterdam</placeName>
+               <location>
+                  <geo>52.3676, 4.9041</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2759794</idno>
+            </place>
+            <place xml:id="ea-place-004">
+               <placeName>The Hague</placeName>
+               <location>
+                  <geo>52.0705, 4.3007</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2747373</idno>
+            </place>
+            <place xml:id="ea-place-005">
+               <placeName>Edinburgh</placeName>
+               <location>
+                  <geo>55.9533, -3.1883</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2650225</idno>
+            </place>
+            <place xml:id="ea-place-006">
+               <placeName>Paris</placeName>
+               <location>
+                  <geo>48.8566, 2.3522</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2988507</idno>
+            </place>
+            <place xml:id="ea-place-007">
+               <placeName>Ferney</placeName>
+               <location>
+                  <geo>46.3082, 6.1244</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/3017920</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
