@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>A quick paragraph on the morning city notes <rs type="keyword" ref="#naturalism">nature</rs>, motion, and the repeated labor of ordinary life. The tone is calm and practical.</p>
-      <p>Several voices comment on trust, doubt, and what counts as a solid example. Nothing elaborate is needed when the subject is already close at hand, and <rs type="keyword" ref="#socialism">community</rs> is mentioned as a practical concern.</p>
+      <p>A quick paragraph on the morning city notes <rs type="keyword" ref="#naturalism">nature</rs>, motion, and the repeated labor of ordinary life. The tone is calm and practical. <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
+      <p>Several voices comment on trust, doubt, and what counts as a solid example. Nothing elaborate is needed when the subject is already close at hand, and <rs type="keyword" ref="#socialism">community</rs> is mentioned as a practical concern. <rs type="person" ref="#ea-pers-001">Eleonora Gonzaga-Nevers</rs></p>
       <p>The final point is simple: attention to the world remains more useful than abstract ceremony. <rs type="keyword" ref="#secular-humanism">Human effort</rs> closes the page. <gap></gap></p>
     </body>
   </text>

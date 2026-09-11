@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>Glass, stone, and smoke appear in the same morning scene. A group of people reads a note and speaks of <rs type="keyword" ref="#religious-critique">criticism</rs>, doubt, and public reason.</p>
-      <p>One voice claims that truth rises from careful study, while another prefers simple speech and familiar examples. The room remains active, restless, and alert, and the talk turns to <rs type="keyword" ref="#atheism-and-science">evidence</rs>.</p>
+      <p>Glass, stone, and smoke appear in the same morning scene. A group of people reads a note and speaks of <rs type="keyword" ref="#religious-critique">criticism</rs>, doubt, and public reason. <rs type="person" ref="#ea-pers-001">Eleonora Gonzaga-Nevers</rs></p>
+      <p>One voice claims that truth rises from careful study, while another prefers simple speech and familiar examples. The room remains active, restless, and alert, and the talk turns to <rs type="keyword" ref="#atheism-and-science">evidence</rs>. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
       <p>There is a lane outside, a market signal, and the ordinary noise of a city before noon. This is enough to carry the argument. <rs type="keyword" ref="#secular-humanism">Shared life</rs> becomes the final image. <gap></gap></p>
     </body>
   </text>

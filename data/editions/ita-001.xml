@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>A bright morning opens with a brief note on <rs type="keyword" ref="#materialism">substance</rs>, language, and observation. The table is crowded with maps, paper, and a few small objects.</p>
-      <p>Several people speak in quick succession, one after another, about <rs type="keyword" ref="#atheism-and-science">truth</rs>, doubt, and the value of simple evidence. Each sentence is short, but the thought is steady.</p>
+      <p>A bright morning opens with a brief note on <rs type="keyword" ref="#materialism">substance</rs>, language, and observation. The table is crowded with maps, paper, and a few small objects. <rs type="person" ref="#ea-pers-001">Eleonora Gonzaga-Nevers</rs></p>
+      <p>Several people speak in quick succession, one after another, about <rs type="keyword" ref="#atheism-and-science">truth</rs>, doubt, and the value of simple evidence. Each sentence is short, but the thought is steady. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
       <p>The lesson is easy to remember: reason and method do not need ceremony to be convincing. <rs type="keyword" ref="#secular-humanism">Human practice</rs> remains the central guide. <gap></gap></p>
     </body>
   </text>

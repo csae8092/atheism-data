@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>People gather in a room and talk about <rs type="keyword" ref="#materialism">matter</rs>, reason, and the shape of the world. The air is plain, the light is weak, and the voices move in small circles.</p>
-      <p>We notice a table, a print, a lamp, and some ordinary books. The discussion turns to <rs type="keyword" ref="#atheism-and-science">science</rs>, doubt, and curiosity, while the garden outside stays quiet and still.</p>
+      <p>People gather in a room and talk about <rs type="keyword" ref="#materialism">matter</rs>, reason, and the shape of the world. The air is plain, the light is weak, and the voices move in small circles. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
+      <p>We notice a table, a print, a lamp, and some ordinary books. The discussion turns to <rs type="keyword" ref="#atheism-and-science">science</rs>, doubt, and curiosity, while the garden outside stays quiet and still. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>There is no need for a grand story. The simple fact is enough: mind, body, and speech all belong to the same world of action and observation. <rs type="keyword" ref="#naturalism">Nature</rs> is mentioned again, as if it were an old and familiar witness. <gap></gap></p>
     </body>
   </text>

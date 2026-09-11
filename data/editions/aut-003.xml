@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>A small crowd reads a letter and speaks about <rs type="keyword" ref="#naturalism">nature</rs>, habit, and the value of clear argument. The room smells of paper and old wood.</p>
-      <p>Words move quickly from one person to another: <rs type="keyword" ref="#religious-critique">witness</rs>, criticism, proof, and trust. Some say the world is visible, some say it is hidden, and others simply prefer to ask questions.</p>
+      <p>A small crowd reads a letter and speaks about <rs type="keyword" ref="#naturalism">nature</rs>, habit, and the value of clear argument. The room smells of paper and old wood. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
+      <p>Words move quickly from one person to another: <rs type="keyword" ref="#religious-critique">witness</rs>, criticism, proof, and trust. Some say the world is visible, some say it is hidden, and others simply prefer to ask questions. <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
       <p>Even a simple sentence can carry a broad claim. This one is about history, memory, and the steady work of ordinary thought. <rs type="keyword" ref="#secular-humanism">Human reason</rs> appears as a quiet but persistent guide. <gap></gap></p>
     </body>
   </text>

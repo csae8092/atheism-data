@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>A short letter describes a bustling market, a steady street, and a conversation about <rs type="keyword" ref="#atheism-and-science">proof</rs>, inquiry, and public trust. The whole scene is simple and vivid.</p>
-      <p>One speaker is patient, another impatient, and a third prefers examples drawn from daily work. They are not debating a myth; they are naming features of the visible world, with <rs type="keyword" ref="#materialism">substance</rs> entering the discussion.</p>
+      <p>A short letter describes a bustling market, a steady street, and a conversation about <rs type="keyword" ref="#atheism-and-science">proof</rs>, inquiry, and public trust. The whole scene is simple and vivid. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
+      <p>One speaker is patient, another impatient, and a third prefers examples drawn from daily work. They are not debating a myth; they are naming features of the visible world, with <rs type="keyword" ref="#materialism">substance</rs> entering the discussion. <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
       <p>At the end, the sentence settles into a cautious conclusion and the room becomes quiet again. <rs type="keyword" ref="#religious-critique">Public criticism</rs> remains the final note. <gap></gap></p>
     </body>
   </text>

@@ -22,8 +22,8 @@
   </teiHeader>
   <text>
     <body>
-      <p>At the end of the afternoon, the group returns to a familiar subject: <rs type="keyword" ref="#naturalism">nature</rs>, utility, and the problem of trust. A hand rests on a chair while someone reads aloud.</p>
-      <p>The argument is not grand. It is built from ordinary words—bread, labor, memory, and observation—and that is enough for a clear summary. <rs type="keyword" ref="#religious-critique">skepticism</rs> enters the room with calm precision.</p>
+      <p>At the end of the afternoon, the group returns to a familiar subject: <rs type="keyword" ref="#naturalism">nature</rs>, utility, and the problem of trust. A hand rests on a chair while someone reads aloud. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
+      <p>The argument is not grand. It is built from ordinary words—bread, labor, memory, and observation—and that is enough for a clear summary. <rs type="keyword" ref="#religious-critique">skepticism</rs> enters the room with calm precision. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>Even a simple conclusion can open a larger view of the world. The day ends with quiet attention and the sound of closing pages. <rs type="keyword" ref="#socialism">collective work</rs> lingers in the final line. <gap></gap></p>
     </body>
   </text>
