@@ -22,7 +22,7 @@
   </teiHeader>
   <text>
     <body>
-      <p>A narrow passage leads to a room where a discussion begins with plain questions: what is a fact, what is a law, and what counts as evidence. The people in the room are attentive and calm. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
+      <p><rs type="place" ref="#ea-place-001">focused</rs> A narrow passage leads to a room where a discussion begins with plain questions: what is a fact, what is a law, and what counts as evidence. The people in the room are attentive and calm.<rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>A few words stand out: <rs type="keyword" ref="#religious-critique">skepticism</rs>, method, practice, and ordinary reason. The conversation does not aim to impress; it aims to clarify, with <rs type="keyword" ref="#atheism-and-science">method</rs> as the anchor. <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
       <p>At the end, the matter is simple: disagreement is common, but careful inquiry still matters. <rs type="keyword" ref="#materialism">substance</rs> reappears as a final term of reflection. <gap></gap></p>
     </body>

@@ -22,7 +22,7 @@
   </teiHeader>
   <text>
     <body>
-      <p>Friends meet in a narrow hall and compare notes on education, law, and ordinary life. Their talk is plain, practical, and full of clean examples. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
+      <p><rs type="place" ref="#ea-place-006">public</rs> Friends meet in a narrow hall and compare notes on education, law, and ordinary life. Their talk is plain, practical, and full of clean examples.<rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
       <p>The page turns and a new idea appears: <rs type="keyword" ref="#socialism">collective life</rs>, the value of labor, and the power of simple institutions. Some listen closely, others laugh, and a few remain silent while <rs type="keyword" ref="#naturalism">nature</rs> is mentioned as a guide. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>Nothing here requires a difficult explanation. The language is common, the scene is familiar, and the final point remains modest. <rs type="keyword" ref="#religious-critique">Reason</rs> closes the paragraph. <gap></gap></p>
     </body>

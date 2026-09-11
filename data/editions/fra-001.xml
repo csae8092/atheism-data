@@ -22,7 +22,7 @@
   </teiHeader>
   <text>
     <body>
-      <p>In a quiet room, a group gathers around a desk and speaks about <rs type="keyword" ref="#secular-humanism">human life</rs>, reason, and the common good. The voices are steady and the paper is worn. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
+      <p><rs type="place" ref="#ea-place-003">busy</rs> In a quiet room, a group gathers around a desk and speaks about<rs type="keyword" ref="#secular-humanism">human life</rs>, reason, and the common good. The voices are steady and the paper is worn. <rs type="person" ref="#ea-pers-002">Baruch Spinoza</rs></p>
       <p>Some remarks are sharp, others are soft, but all of them move toward a practical question: what can people know, and what can they reasonably do together? <rs type="keyword" ref="#atheism-and-science">Observation</rs> appears in the middle of the exchange. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>The answer remains modest, built from simple language and ordinary scenes. <rs type="keyword" ref="#naturalism">Visible reality</rs> is the final frame. <gap></gap></p>
     </body>

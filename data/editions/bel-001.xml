@@ -20,9 +20,9 @@
   </teiHeader>
   <text>
       <body>
-         <p>And now, citizens, let us consider whether the society in which we live is truly a society,
+         <p><rs type="place" ref="#ea-place-004">quiet</rs> And now, citizens, let us consider whether the society in which we live is truly a society,
             whether it fulfils the purpose that society is meant to serve, or whether it is rather an
-            antisocial state. Does it realize democracy? Does it respect liberty and equality? <gap></gap> <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
+            antisocial state. Does it realize democracy? Does it respect liberty and equality?<gap></gap> <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
          <p>Is it consistent with justice? <gap></gap> Let us take a look at its principal institutions: government,
             property, religion, and so on. <gap></gap> <rs type="person" ref="#ea-pers-001">Eleonora Gonzaga-Nevers</rs></p>
          <p>We condemn religion (religion, let’s be clear—whatever it may be: any external or internal

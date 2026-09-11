@@ -22,7 +22,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>And now, citizens, let <rs type="keyword" ref="#materialism">us consider</rs> whether the society in which we live is truly a society,
+         <p><rs type="place" ref="#ea-place-001">focused</rs> And now, citizens, let<rs type="keyword" ref="#materialism">us consider</rs> whether the society in which we live is truly a society,
             whether it fulfils the purpose that society is meant to serve, or whether it is rather an
             antisocial state. Does it realize democracy? Does it respect liberty and equality? <gap></gap> <rs type="person" ref="#ea-pers-001">Eleonora Gonzaga-Nevers</rs></p>
          <p>Is it consistent with justice? <gap></gap> Let us take a look at its principal institutions: government,

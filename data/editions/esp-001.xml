@@ -22,7 +22,7 @@
   </teiHeader>
   <text>
     <body>
-      <p>Morning light reaches a narrow table where several people read aloud about <rs type="keyword" ref="#materialism">matter</rs>, habit, and visible evidence. The room is orderly and the air is calm. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
+      <p><rs type="place" ref="#ea-place-007">distant</rs> Morning light reaches a narrow table where several people read aloud about<rs type="keyword" ref="#materialism">matter</rs>, habit, and visible evidence. The room is orderly and the air is calm. <rs type="person" ref="#ea-pers-003">David Hume</rs></p>
       <p>They examine the word argument in a practical way: what can be seen, what can be tested, and what should remain uncertain. <rs type="keyword" ref="#atheism-and-science">Explanation</rs> appears as a guiding term. <rs type="person" ref="#ea-pers-004">François-Marie Voltaire</rs></p>
       <p>Such plain talk often proves more useful than formal speech. <rs type="keyword" ref="#religious-critique">Reason</rs> remains central. <gap></gap></p>
     </body>
